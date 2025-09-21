@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Gradio flagged data
+.gradio/
+
+# Environment variables
+.env
+
+
+# Audio files (optional — ignore if you don’t want to push .mp3)
+*.mp3
+
+# OS-specific files
+.DS_Store
+Thumbs.db
